@@ -156,7 +156,7 @@
                         <h5 class="card-title text-dark">White T-shirt</h5>
                         <p>Our best products from the T-shirts section</p>
                         <a href="#" class="btn btn-dark">Shop Now</a>
-                        sdasdfsafsafsafawsfa
+                        
                     </div>
                 </div>
             </div>
